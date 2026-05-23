@@ -121,20 +121,12 @@ The final workflow combines:
 
 ## Screenshots
 
-Add your app screenshots inside `docs/screenshots/` using these names:
 
-- `home-page.png`
-- `fake-job-result.png`
-- `real-job-result.png`
-- `project-workflow.png`
 
-Then update this section with image links:
+![Home Page](screenshots/Home_Page.png)
+![Fake Job Result](screenshots/Real_Job_Result.png)
+![Real Job Result](screenshots/Fake_Job_Result.png)
 
-```md
-![Home Page](docs/screenshots/home-page.png)
-![Fake Job Result](docs/screenshots/fake-job-result.png)
-![Real Job Result](docs/screenshots/real-job-result.png)
-```
 
 Detailed screenshot guidance is available in [docs/GITHUB_PROJECT_ASSETS.md](/Users/najiyakhatoon/AI_&_Gragh_based_Detection_Of_Fake_InternshipJob/docs/GITHUB_PROJECT_ASSETS.md) and [docs/screenshots/README.md](/Users/najiyakhatoon/AI_&_Gragh_based_Detection_Of_Fake_InternshipJob/docs/screenshots/README.md).
 
