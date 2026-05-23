@@ -128,8 +128,6 @@ The final workflow combines:
 ![Real Job Result](screenshots/Fake_Job_Result.png)
 
 
-Detailed screenshot guidance is available in [docs/GITHUB_PROJECT_ASSETS.md](/Users/najiyakhatoon/AI_&_Gragh_based_Detection_Of_Fake_InternshipJob/docs/GITHUB_PROJECT_ASSETS.md) and [docs/screenshots/README.md](/Users/najiyakhatoon/AI_&_Gragh_based_Detection_Of_Fake_InternshipJob/docs/screenshots/README.md).
-
 ## Local Setup
 
 ### 1. Install dependencies
